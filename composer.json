@@ -1,0 +1,24 @@
+{
+    "name": "amolespl/greetr",
+    "description": "Test Greet",
+    "type": "projects",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Amol Espl",
+            "email": "amol.lute@encureit.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "AmolEspl\\Greetr\\": "src/"
+        }
+    },
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/amollute-encure/testgreet.git"
+        }
+    ]
+}
